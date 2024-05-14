@@ -38,6 +38,20 @@ main
     display:flex;
     width:100%;
 }
+.main1>img,
+.main3>img,
+.main5>img
+{
+    border-bottom-left-radius: 3vw;
+    width:50%;border-top-left-radius: 3vw;
+}
+.main2>img,
+.main4>img
+{
+    border-bottom-right-radius: 3vw;
+    border-top-right-radius: 3vw;
+    width:50%;
+}
 .main2,
 .main3,
 .main4,

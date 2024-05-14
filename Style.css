@@ -19,15 +19,15 @@ body
 }
 main>p
 {
-    width:48vw;
-    margin-left: 2vw;
+    width:48%;
+    margin-left: 2%;
     font-size: 2.5vw;
     font-family: sans-serif;
 }
 .main4>p
 {
     font-size:2vw;
-    width:44vw;
+    width:44%;
 }
 .main5>p
 {
@@ -36,7 +36,7 @@ main>p
 main
 {
     display:flex;
-    width:100vw;
+    width:100%;
 }
 .main2,
 .main3,
@@ -51,7 +51,7 @@ footer>ul
 }
 footer
 {
-    width:100vw;
+    width:100%;
     display:flex;
     align-items: center;
     margin-top: 10vh;
